@@ -1,0 +1,10 @@
+The two folders contain slightly different versions of the program
+
+"CLI and hardcoded graph" is similar to the submissions for past assignments, 
+it runs my algorithm on a hard-coded test graph and allows program variables to be
+input through the command line on the program call
+
+"Interactive visualizer" uses the OLC Pixel Game Engine to run a visualization
+of my algorithm operating on a graph, which can be randomized and re-run ant trials inside the program.
+this does not take any command line inputs, however the control variables can still be found
+and changed near the top of Simulation.cpp
